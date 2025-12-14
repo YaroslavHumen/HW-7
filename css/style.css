@@ -1,0 +1,13 @@
+.body {
+background: rgb(43, 255, 213);
+text-align: center;
+}
+
+.list {
+display: block;
+background-color: rgb(241, 254, 146);
+width: 400px;
+margin: 70px auto 20px auto; 
+padding: 20px 40px 70px 40px;
+border-radius: 40px;
+}
